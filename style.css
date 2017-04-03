@@ -3,6 +3,7 @@ body {
   background-repeat: repeat;
   overflow: hidden;
   text-align: center;
+  overflow: scroll;
 }
 * {
   border: 1px solid rgba(0,0,0,.3);
